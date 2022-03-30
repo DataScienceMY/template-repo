@@ -2,9 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=matlab
 
 ### MATLAB ###
-# Data and figure files (optional, delete to track these files)
-*.mat
-*.fig
 
 # Windows default autosave extension
 *.asv
